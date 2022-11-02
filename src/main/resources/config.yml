@@ -1,0 +1,5 @@
+
+# ---- Database ---- #
+db-conn-url: jdbc:mysql://url
+db-user: user
+db-pw: password

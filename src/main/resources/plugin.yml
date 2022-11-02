@@ -1,0 +1,4 @@
+name: Minecraft2FA
+version: '${version}'
+main: me.verwelius.minecraft2fa.Minecraft2FA
+api-version: 1.19
